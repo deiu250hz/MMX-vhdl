@@ -1,0 +1,23 @@
+# Vivado generated
+*.cache/
+*.hw/
+*.runs/
+*.sim/
+*.gen/
+*.ip_user_files/
+.Xil/
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+webtalk*
+xsim.dir/
+# ModelSim / GHDL
+work/
+transcript
+*.wlf
+*.cf
+# Office temp
+~$*
+.~lock.*
